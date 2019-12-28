@@ -1,1 +1,2 @@
 # Minesweeper
+NOTE: This java implementation of minesweeper does not yet include functionality for a "perfect game", that is, a game that does not involve guessing.  Since the mines are ranodmly assigned, it is very likely that the user will have to guess a bit when playing.
